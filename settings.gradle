@@ -1,0 +1,2 @@
+rootProject.name = "JetpackNavigation_Worldskills"
+include ':app'
