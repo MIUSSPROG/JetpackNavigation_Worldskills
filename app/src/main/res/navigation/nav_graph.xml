@@ -17,7 +17,7 @@
     <fragment
         android:id="@+id/boxFragment"
         android:name="com.example.jetpacknavigation_worldskills.Fragments.BoxFragment"
-        android:label="fragment_box"
+        android:label="{colorName} Box"
         tools:layout="@layout/fragment_box" >
         <action
             android:id="@+id/action_boxFragment_to_secretFragment"
